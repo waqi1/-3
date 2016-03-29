@@ -13,7 +13,7 @@
     1. 给定每一个字母的字符串阵列，将所有字母的阵列第一行储存于第一个表、第二行储存于第二个表，以此类推即可实现所有字母的储存；
     2. 设定用户输入提示，让用户输入字母；
     3. 通过二个输出循环，对每个字母、每一行进行输出。
-    * 代码在此([wang'qi](1a81d704e7ea6f996bbfd3e2662d6800c238a56c)  
+    * 代码在此([wang'qi](1a81d704e7ea6f996bbfd3e2662d6800c238a56c))
     * 结果如图，用户输入字符wang qi后屏幕上即显示出相应的字符串阵列，而若打乱输入顺序，则仍然能够成功输出
     * 值的改进的地方：若输入字符太多，超过一行的显示范围，则不能成功显示，可以把输入字母串分成若干行，分别输出即可；另外，该程序只能显示少数几个字母以及空格，若要显示其他的字母，则需要一一添加至字典即可；  
 
@@ -25,5 +25,5 @@
 ## 致谢  
 * 感谢caihao老师关于清空屏幕的指令
 `import os`，`i = os.system('cls')`
-的作业提示(样ben](https://github.com/caihao/computational_physics_whu/blob/master/Exercises.md))  
+的作业提示(样ben](https://github.com/caihao/computational_physics_whu/blob/master/Exercises.md)
 
